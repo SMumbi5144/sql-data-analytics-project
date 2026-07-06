@@ -1,0 +1,6 @@
+# SQLTools scratchpad files
+*.session.sql
+
+# OS files
+.DS_Store
+Thumbs.db 
